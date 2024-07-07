@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.css": "css",
+    "*.php": "php",
+    "stdio.h": "c"
+  }
+}

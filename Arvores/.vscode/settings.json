@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.css": "css",
+    "stdio.h": "c",
+    "insert_tree.c": "cpp",
+    "in_order.c": "cpp",
+    "search_tree.c": "cpp",
+    "struct_tree.h": "c",
+    "header.h": "c",
+    "stdlib.h": "c"
+  }
+}
